@@ -1,6 +1,11 @@
 <div align="center">
+ <img src="./Square%20Logo%20Only.png" alt="Extended Synaptic (XYN) Logo" width="200">
+</div>
+
+<div align="center">  
   
 ### **Extended Synaptic (XYN)**
+
 #### *Innovating Intelligent Technology, Crafting Smart Solutions for Your Vision.*
 
 </div>
